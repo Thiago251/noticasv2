@@ -1,3 +1,8 @@
+#Script desenvolvido por Thiago Oliveira
+#Academico de Analise e Desevolvimento de Sistemas
+#Direitos sobre autoria de criação do script reservado
+#Podem modificar a vontade.
+
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
