@@ -8,6 +8,6 @@ Urllib
 Requests
 
 Executado no terminal linux, será solicitado por opções pre definidas os sites que se deseja analisar, assim que a opção for escolhida, será gerado um relatorio dos site que 
-você escolheu, detro desse relatorio estara salvo todos os links do site escolido.
+você escolheu, dentro desse relatorio estara salvo todos os links do site escolhido.
 
 
